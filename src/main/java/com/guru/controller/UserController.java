@@ -15,7 +15,11 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.guru.model.User;
 import com.guru.service.UserService;
-
+/**
+ * 
+ * @author Gurunath Sugavanam
+ *
+ */
 @RestController
 @RequestMapping("user-api/v1")
 // Save, Update, Delete, getallUsers, getUser, findUserByName
