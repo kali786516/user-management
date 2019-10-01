@@ -1,0 +1,3 @@
+http://springbootuser.us-east-1.elasticbeanstalk.com/user-api/v1/users/all
+
+https://learning.oreilly.com/videos/hands-on-cloud-native/9781788994606
