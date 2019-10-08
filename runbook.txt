@@ -1,3 +1,7 @@
 http://springbootuser.us-east-1.elasticbeanstalk.com/user-api/v1/users/all
 
 https://learning.oreilly.com/videos/hands-on-cloud-native/9781788994606
+
+server.port=5000
+
+server.port only works with elastic beanstalk so you need to add this property
